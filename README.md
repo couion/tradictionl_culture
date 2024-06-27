@@ -1,0 +1,1 @@
+traditional_culture为前端代码
